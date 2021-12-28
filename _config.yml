@@ -1,6 +1,15 @@
-title: Minimal theme
+title: Nikhileshwar Reddy B
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/nikhileshwar-reddy-b-4012b612a/">LinkedIn</a> |
+  <a href="https://github.com/NikhileshwarReddy">GitHub</a>
+  
+  <br> 
+  Working in E&Y GDS for a year.
+  Working in the domain of D&A .
+  <br>
+  </p>
+  
+  
 theme: jekyll-theme-minimal
